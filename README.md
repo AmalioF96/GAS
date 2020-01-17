@@ -1,2 +1,2 @@
 # GAS
-Mi repositorio de Google App Script
+My Google App Script repository.
